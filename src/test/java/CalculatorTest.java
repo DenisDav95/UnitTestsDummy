@@ -24,5 +24,4 @@ public class CalculatorTest {
     public void divide() {
         Assert.assertEquals("The result is not correct", 7, calc.divide(49,7));
     }
-
 }
